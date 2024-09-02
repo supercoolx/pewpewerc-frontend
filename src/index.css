@@ -4,6 +4,7 @@
 
 body {
     background-color: white;
-    background-image: url('./imgs/Frame-11.jpg');
+    background-image: url('/imgs/Frame-11.jpg');
     background-size: cover;
+    background-position: center;
 }
